@@ -1,4 +1,23 @@
+//AFS Edit
 {
+  "baseURL": "https://acfac.org",
+  "author": "المكتب الفني - المجلس العربي للأكاديميين والكفاءات",
+  "description": "المجلس العربي للأكاديميين والكفاءات",
+  "title": "المجلس العربي للأكاديميين والكفاءات",
+  "language": "ar",
+  "social": [
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/council_arab"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arab-council-academic-4292411b7/"
+    }
+  ]
+}
+
+/* {
   "baseURL": "https://hello.world",
   "author": "hello.world",
   "description": "hello.world - Venture Capital",
@@ -14,4 +33,4 @@
       "url": "https://linkedin.com/company/#"
     }
   ]
-}
+} */
